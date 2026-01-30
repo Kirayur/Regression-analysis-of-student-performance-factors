@@ -36,8 +36,3 @@
 - Statsmodels (регрессионный анализ)
 - Seaborn & Matplotlib (визуализация)
 - Scipy & Pingouin (статистические тесты)
-
-## Как запустить
-1. Склонируйте репозиторий:
-   ```bash
-   git clone [https://github.com/ваш-логин/название-репозитория.git](https://github.com/ваш-логин/название-репозитория.git)
